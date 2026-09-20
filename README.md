@@ -434,7 +434,19 @@ These results indicate geographic concentration within the identified candidates
 ---
 
 # 📊 Power BI Dashboard
+## 📊 Dashboard Preview
 
+### Executive Overview
+![Executive Overview](screenshots/executive_overview.png)
+
+### Leak Explorer
+![Leak Explorer](screenshots/leak_explorer.png)
+
+### Root Cause Analysis
+![Root Cause Analysis](screenshots/root_cause_analysis.pn)
+
+### Priority & Geography
+![Priority & Geography](screenshots/priority_geography.png)
 The analysis was converted into a four-page interactive Power BI dashboard.
 
 ## Page 1 — Executive Overview
