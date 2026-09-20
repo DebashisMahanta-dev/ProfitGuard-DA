@@ -437,18 +437,20 @@ These results indicate geographic concentration within the identified candidates
 ## 📊 Dashboard Preview
 
 ### Executive Overview
-![Executive Overview]<img width="1103" height="752" alt="Executive Overview" src="https://github.com/user-attachments/assets/ec707e2b-0d1d-4ba7-b1a4-ad6a4901e403" />
+
+<img width="1103" height="752" alt="Executive Overview" src="https://github.com/user-attachments/assets/ec707e2b-0d1d-4ba7-b1a4-ad6a4901e403" />
 
 ### Leak Explorer
-![Leak Explorer](<img width="1437" height="803" alt="Leak Explorer" src="https://github.com/user-attachments/assets/64d6a0bd-fc30-47bf-b956-bf2ca16728da" />
-)
+<img width="1437" height="803" alt="Leak Explorer" src="https://github.com/user-attachments/assets/64d6a0bd-fc30-47bf-b956-bf2ca16728da" />
+
 
 ### Root Cause Analysis
-![Root Cause Analysis](<img width="1045" height="801" alt="Root Cause Analysis" src="https://github.com/user-attachments/assets/f8050cd4-8cd5-48be-9e8d-fde05f7a8f5c" />
-)
+<img width="1045" height="801" alt="Root Cause Analysis" src="https://github.com/user-attachments/assets/f8050cd4-8cd5-48be-9e8d-fde05f7a8f5c" />
+
 
 ### Priority & Geography
-![Priority & Geography]
+<img width="1292" height="816" alt="Priority Geography" src="https://github.com/user-attachments/assets/313ccb09-648f-4259-9801-9e3783c407f2" />
+
 
 The analysis was converted into a four-page interactive Power BI dashboard.
 
