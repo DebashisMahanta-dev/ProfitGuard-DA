@@ -437,8 +437,7 @@ These results indicate geographic concentration within the identified candidates
 ## 📊 Dashboard Preview
 
 ### Executive Overview
-![Executive Overview](<img width="1103" height="752" alt="Executive Overview" src="https://github.com/user-attachments/assets/ad50d807-d0d8-4023-806a-6ed0eed5b3ff" />
-)
+![Executive Overview]<img width="1103" height="752" alt="Executive Overview" src="https://github.com/user-attachments/assets/ec707e2b-0d1d-4ba7-b1a4-ad6a4901e403" />
 
 ### Leak Explorer
 ![Leak Explorer](<img width="1437" height="803" alt="Leak Explorer" src="https://github.com/user-attachments/assets/64d6a0bd-fc30-47bf-b956-bf2ca16728da" />
@@ -449,8 +448,8 @@ These results indicate geographic concentration within the identified candidates
 )
 
 ### Priority & Geography
-![Priority & Geography](<img width="1292" height="816" alt="Priority Geography" src="https://github.com/user-attachments/assets/bd3c31e6-52db-454d-a815-5434db2e580a" />
-)
+![Priority & Geography]
+
 The analysis was converted into a four-page interactive Power BI dashboard.
 
 ## Page 1 — Executive Overview
